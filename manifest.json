@@ -1,0 +1,21 @@
+{
+  "name": "تطبيق التشفير الاحترافي",
+  "short_name": "EncryptApp",
+  "lang": "ar",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f2027",
+  "theme_color": "#1abc9c",
+  "icons": [
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEAAAABACAYAAACqaXHeAAACH0lEQVR4nO2bPWqDUBCGv2UNa0HZ3OLs+CKRu0wk+Q7HDuZtE2TJIkk9i7iUVgOMFKRTofhjhYoN14Y4sRDWJGJbcPA3OZF4/P7M7c6Q8kI+vnaDvXlq9+a9MOn3yQFf3mpzon9u/ZQf+F6cw4vErdcTAjfBD5wCJoG+BNZRqdrggdkIa3o1BeoRyivUiaVZaYa+fH0zTQU0rKhJ5W2R+3k5+ZvmAkAYD7aY2syn1YeyVu32ikMSjzguX6J2eoMgQkI4Lp1DBsGASn/a12d2FBqsQYoj6n8TSbN9OiDqcoaAYE/8IawPfr2CaxBGGn81JIVhZsSImiXmfkKQ6BuO/1q1mjanEAO/xbAsE+wPbZ9HcFGIhfHJY2DMXH7yBddlG+1LzTFgWsQ4ZntyurBMODQzCqF0SGNmlYRTZ6eIE... (icon base64) ...=",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUAAAADACAYAAAB/iMfeAAAIeklEQVR4nO3dv2tcVx3ET8cFELoEZQQopheUpSmE2LygyUtcI2UQMGYzEJGzjLKBWr9UoNogYKBcOBhwc1+7y9u7N9n+fvfm93rP3nHvuPe973v+S2luwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAFEDdlh2NRgAA4CE7T/hKTMRe68UgqUQKBZyII2SBDYI+BgQ2CLg0hGiUQKBZyCI6Sbijggdkob3s0Bu4E0pVVaQa20j1ZfpFagfA1ZQfp06F7dCfh2gfdVqLF1kMGAU5EimoNo7RNZUZqSOJ/MjVb6w3UX4hgSgluYofvKS6I+wmrnDBRgzmw3OrwsSF7O9+i+S0CVZi...
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
